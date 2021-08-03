@@ -22,6 +22,7 @@ pipeline {
 			   steps{
                    echo "Integration Test"
 			   }
+		    }
 		}
 	}	
 	
